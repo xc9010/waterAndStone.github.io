@@ -100,4 +100,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/xc9010/waterAndStone.github.io.git
-  branch: master
+  branch: gh-pages
